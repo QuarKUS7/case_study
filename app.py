@@ -4,7 +4,7 @@ import json
 personal_details = {
     'name': 'Honza\n',
     'surname': 'Javorek\n',
-    'socks_size': '42\n'
+    'socks_size': '69\n'
 }
 
 class PersonalDetailsResource():
